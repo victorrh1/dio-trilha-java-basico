@@ -1,4 +1,4 @@
-# 🏦 Sistema de Abertura de Conta Bancária Terminal - DIO
+# 🏦 Abertura de Conta Bancária Terminal - DIO
 
 * Este projeto foi desenvolvido como parte de um desafio proposto pela Digital Innovation One (DIO) 🚀.
 
